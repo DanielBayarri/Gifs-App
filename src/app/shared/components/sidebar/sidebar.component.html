@@ -1,0 +1,12 @@
+<div class="bg-dark border-right p-3" id="sidebar">
+    <h3 class="text-info">Gifs App</h3>
+    <hr class="text-info">
+    <p class="text-light" >Historial</p>
+    <hr class="text-info">
+
+    <ul class="bg-dark list-group list-group-flush">
+        <li class=" bg-dark list-group-item text-info "  *ngFor="let tag of tags" (click)="callTag( tag)">
+            {{tag | titlecase}}
+        </li>
+    </ul>
+</div>

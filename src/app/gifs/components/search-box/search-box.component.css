@@ -1,0 +1,48 @@
+h3{
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.inputBox {
+    position: relative;
+    width: 50vw;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 20px;
+}
+
+.inputBox input{
+    width: 60%;
+    height: 45px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    background: #1d2b3a;
+    border-radius: 5px;
+    outline: none;
+    color: #fff;
+    font-size: 1em;
+    padding: 10px;
+}
+
+.inputBox span {
+    position: absolute;
+    left: 0;
+    padding: 10px;
+    pointer-events: none;
+    font-size: 1em;
+    color: rgba(255, 255, 255, 0.25);
+    text-transform: uppercase;
+    transition: 0.5s;
+}
+.inputBox input:focus ~ span {
+    color: #0dbbde;
+    transform: translateX(10px) translateY(-7px);
+    font-size: 0.65em;
+    padding: 0 10px;
+    background: #1d2b3a;
+    border-left: 1px solid #0dbbde;
+    border-right: 1px solid #0dbbde;
+
+}
+.inputBox input:focus {
+    border: 1px solid #0dbbde;
+}
