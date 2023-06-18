@@ -1,27 +1,26 @@
-# GifsApp
+# Gifs App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
+## Descripción 📑
 
-## Development server
+Página con el consumo de la Api de Ghipy para los gifs, hecha con Angular y Boostrap, con historial en localStorage y loader.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Ejemplo en vivo
+- [https://danielbayarri.github.io/Gifs-App/](https://danielbayarri.github.io/Gifs-App/)
 
-## Code scaffolding
+## Autor ✒️
+**Daniel Bayarri**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* [d.bayarri.b@gmail.com](d.bayarri.b@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/danielbayarri/)
 
-## Build
+## Tecnologías 🛠
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://es.wikipedia.org/wiki/Angular)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://es.wikipedia.org/wiki/Bootstrap)
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Vista previa del proyecto
 
-## Running end-to-end tests
+![Captura del proyecto]([https://repository-images.githubusercontent.com/652594263/a41e2cef-bf20-444e-a70d-0bdbc8dedb6a](https://repository-images.githubusercontent.com/655332583/ff489f00-0c4d-4196-9ff3-e3f0345ce758))
+![Captura del proyecto]()
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
