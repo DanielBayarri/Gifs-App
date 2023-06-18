@@ -21,6 +21,4 @@ Página con el consumo de la Api de Ghipy para los gifs, hecha con Angular y Boo
 
 ## Vista previa del proyecto
 
-![Captura del proyecto]([https://repository-images.githubusercontent.com/652594263/a41e2cef-bf20-444e-a70d-0bdbc8dedb6a](https://repository-images.githubusercontent.com/655332583/ff489f00-0c4d-4196-9ff3-e3f0345ce758))
-![Captura del proyecto]()
-
+![Captura del proyecto]([https://repository-images.githubusercontent.com/655332583/ff489f00-0c4d-4196-9ff3-e3f0345ce758])
